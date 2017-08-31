@@ -250,8 +250,6 @@ header .intro-text .intro-heading {
 
 header .intro-text .intro-lead-in {
     
-
-    
 }
 
 
@@ -672,10 +670,14 @@ section h3.section-subheading {
     width: 100%;background-color:#474747;color:#fff;position: absolute;
 bottom:0px;
 min-height: 30px;
-    line-height: 30px;
+    line-height: 15px;
     font-family: "Hind", "Helvetica Neue", Helvetica, Arial, sans-serif;
 
 }
+
+header .detail-nom p{text-align: left;
+    line-height: 15px;}
+
 header .detail-nom p{
     margin:0;font-size: 14px;line-height: 30px;
 }
